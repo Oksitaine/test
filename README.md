@@ -1,6 +1,6 @@
 ## Welcome to the first test of git ! 
 
 
-LES LOUTRES c'est de la merde DE MERS ME FONT VRAIMENT PEUR !!!!!!
-
+LES LOUTRES DE MERS ME FONT VRAIMENT PEUR !!!!!!
+ET LES MECAS IL SE FONT DEFONCER PAR DE L'EAU JE TE RAPPEL !!!! 
 MAIS CELLE D'EAU DOUCE SONT MIMI !!! => Steve
