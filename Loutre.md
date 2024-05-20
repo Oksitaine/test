@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 LES LOUTRES SONT UNE ESPECE RARE DE CHAT MARIN QUI DISPOSE DE MANIFIQUE MOUSTACHE ET D'UN CRI AIGUI QUI VOUS FERRAS L'EFFET D'UNE BOMBE DE MINIONRI !!!!! 
 
+=======
+Les pokemons sont des humains
+>>>>>>> Stashed changes
